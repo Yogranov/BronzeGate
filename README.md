@@ -23,7 +23,7 @@ singleCamMode = False                       #true = single camera, false dual ca
 debug = True                                # will print info to console and won't open the gate
 ```
 
-Gif from debug section:
+Gif from debug section: <br>
 <img src="https://github.com/Yogranov/BronzeGate/blob/master/README_MEDIA/debug-anim.gif" width="600" height="313" />
 
 
