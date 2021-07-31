@@ -1,12 +1,11 @@
 BronzeGate is an automatic gate system for PalGate app users, the system scan license plate and send an API call to PalGate services if the number exists in your list.
-
 The main algorithm base on YoloV4, the AI was training on 4000 different images, specific to the Israeli license plates style, and reach a precision of more than 90%.
 
-Main features:
-    1. Single / Dual mode - allow to open the gate from both sides.
-    2. Motion detection - the AI will start to work just if movement has detected.
-    3. Debug mode
-    4. Extra lite - works on tiny model, can be run on Raspberry pie or Jetson nano.
+Main features:<br>
+    1. Single / Dual mode - allow to open the gate from both sides.<br>
+    2. Motion detection - the AI will start to work just if movement has detected.<br>
+    3. Debug mode<br>
+    4. Extra lite - works on tiny model, can be run on Raspberry pie or Jetson nano.<br>
 
 
 Main configurations:
@@ -27,8 +26,8 @@ Gif from debug section: <br>
 <img src="https://github.com/Yogranov/BronzeGate/blob/master/README_MEDIA/debug-anim.gif" width="600" height="313" />
 
 
-
-External links:
-    The project forked from 'the ai guy'- https://github.com/theAIGuysCode/yolov4-custom-functions
-    How to get PalGate tokens by Roei Ofri - https://github.com/RoeiOfri/homebridge-palgate-opener
-    Plate Recognition website - https://platerecognizer.com/
+<br>
+External links:<br>
+    The project forked from 'the ai guy'- https://github.com/theAIGuysCode/yolov4-custom-functions <br>
+    How to get PalGate tokens by Roei Ofri - https://github.com/RoeiOfri/homebridge-palgate-opener <br>
+    Plate Recognition website - https://platerecognizer.com/ <br>
