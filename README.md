@@ -1,4 +1,5 @@
 BronzeGate is an automatic gate system for PalGate app users, the system scan license plate and send an API call to PalGate services if the number exists in your list.<br>
+<br>
 The main algorithm base on YoloV4, the AI was training on 4000 different images, specific to the Israeli license plates style, and reach a precision of more than 90%.<br>
 
 Main features:<br>
@@ -22,7 +23,7 @@ singleCamMode = False                       #true = single camera, false dual ca
 debug = True                                # will print info to console and won't open the gate
 ```
 
-<br><br>
+<br>
 Gif from debug section: <br> <br>
 <img src="https://github.com/Yogranov/BronzeGate/blob/master/README_MEDIA/debug-anim.gif" width="600" height="313" />
 
